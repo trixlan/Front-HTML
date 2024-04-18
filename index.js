@@ -1,4 +1,4 @@
-const requestUrl = 'http://quarkus/persons';
+const requestUrl = 'http://quarkus-senasica.apps.cluster-7qrss.7qrss.sandbox2098.opentlc.com/persons';
 
 const options = {
     method: "GET",
